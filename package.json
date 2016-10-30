@@ -1,6 +1,6 @@
 {
-  "name": "jsxstyle",
-  "version": "1.0.1",
+  "name": "@danielberndt/jsxstyle",
+  "version": "1.0.1-exp.1",
   "description": "",
   "main": "index.js",
   "scripts": {
